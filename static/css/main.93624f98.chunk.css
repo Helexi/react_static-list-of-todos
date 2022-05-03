@@ -1,0 +1,2 @@
+body{background-color:#8d8}.App{font-size:15px}.App,.App__title{font-family:Arial,Helvetica,sans-serif}.App__title{text-transform:uppercase;font-size:20px;color:#629e9e;display:flex;justify-content:center;align-items:center}.todo-main{display:grid;grid-template-columns:1fr 1fr 1fr;grid-gap:10px;gap:10px;list-style-type:none}.todo{display:flex;flex-direction:column;height:100%;border:1px solid #127891;border-radius:30px;padding-left:10px;cursor:pointer}.todo__title{color:#1a5944}.user-info__item{color:#080808}
+/*# sourceMappingURL=main.93624f98.chunk.css.map */
